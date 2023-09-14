@@ -10,3 +10,5 @@ dog_data <- data.frame(types = c("boxer", "chocolate lab", "golden"),
                        color=c("brindle", "brown", "golden"))
 
 write.csv(dog_data, "dog_colors.csv")
+
+print("whoa, editing things on git")
