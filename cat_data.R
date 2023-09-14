@@ -4,4 +4,4 @@ new_data <- data.frame(types = c("tortie", "calico", "halloween"),
                        
 write.csv(new_data, "cat_colors.csv")
 
-print("hello!")
+print("hello, and goodbye!")
